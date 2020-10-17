@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://www.mattdiiulio.com/",
+    "contentApiKey"629e3c48182951e331fd41e82e"
+  },
+  "production": {
+    "apiUrl": "https://www.mattdiiulio.com/",
+    "contentApiKey": "629e3c48182951e331fd41e82e"
+  }
+}
